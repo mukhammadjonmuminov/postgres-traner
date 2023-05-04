@@ -217,16 +217,15 @@
     <img width="800" src="http://telegra.ph//file/3a4523b1202cb34badb88.jpg" alt="">
 </p>
 
-!['Arifmetik amallar'](http://telegra.ph//file/3a4523b1202cb34badb88.jpg)
+<h4 align="center"> Solishtirish Operatorlari  </h4>
+<p align="center"> 
+    <img width="800" src="http://telegra.ph//file/6f89720cc8cdba63064e9.jpg" alt="">
+</p>
 
-center Solishtirish Operatorlari
-
-![](http://telegra.ph//file/6f89720cc8cdba63064e9.jpg)
-
-<p style="text-align: center">  </p>
-
-
-
+<h4 align="center"> Mantiqiy Operatorlari  </h4>
+<p align="center"> 
+    <img width="800" src="http://telegra.ph//file/457ae1f6403dbe7403357.jpg" alt="">
+</p>
 
 
 
